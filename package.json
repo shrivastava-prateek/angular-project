@@ -7,7 +7,9 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "postbuild": "del dist\\ng7App\\*.map",
+    "build:sourcemaps": "ng build --prod --output-path=localSourceMaps" 
   },
   "private": true,
   "dependencies": {

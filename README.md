@@ -31,3 +31,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # angular-project
 Angular basic project to test the basic functionality and to do handson.
 
+for source maps: 
+right click on a file and click on add source map file:
+file:///E:\Work\Other Projects\ng7Demo\ng7App\localSourceMaps\main-es5.308550ce95f55890003b.js.map
+
